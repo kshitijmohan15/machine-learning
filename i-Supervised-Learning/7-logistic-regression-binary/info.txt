@@ -1,1 +1,0 @@
-Logistic regression is usually used to do some classification, whether the email is spam or not, whether the customer will buy life insurance or not, which party the person is going to vote for etc.
